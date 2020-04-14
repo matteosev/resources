@@ -1,7 +1,7 @@
 # ressources
 All the ressources i use
 
-https://github.com/wtsxDev/reverse-engineering \n
-https://github.com/wtsxDev/reverse-engineering \n
-https://goalkicker.com/ \n
-https://www.nasm.us/doc/nasmdoc0.html \n
+https://github.com/wtsxDev/reverse-engineering <br>
+https://github.com/wtsxDev/reverse-engineering
+https://goalkicker.com/ 
+https://www.nasm.us/doc/nasmdoc0.html 
