@@ -1,4 +1,5 @@
 # javascript
 ressources for javascript programming
 
-https://eloquentjavascript.net/
+https://eloquentjavascript.net/ <br>
+https://developer.mozilla.org/en-US/docs/Web/javascript
