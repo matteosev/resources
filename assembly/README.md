@@ -16,5 +16,6 @@ Ressources for assembly programming <br>
 <h3>linux</h3>
 <a href="https://syscalls.w3challs.com/?arch=x86_64">listing</a> <br>
 <a href="http://man7.org/linux/man-pages/man2/syscalls.2.html">manuals</a> <br>
+<a href="http://linasm.sourceforge.net/docs/syscalls/">deeper descriptions</a> <br>
 
  
