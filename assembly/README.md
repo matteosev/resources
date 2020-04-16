@@ -5,11 +5,11 @@ Ressources for assembly programming <br>
 <a href="https://www.nasm.us/doc/nasmdoc0.html">nasm</a> <br>
 
 <h2>tutorials</h2>
-https://asmtutor.com <br>
-https://cs.lmu.edu/~ray/notes/nasmtutorial/ <br>
+<a href="https://asmtutor.com">asm tutor</a> <br>
+<a href="https://cs.lmu.edu/~ray/notes/nasmtutorial/">cs course</a> <br>
 
 <h2>syscalls</h2>
-https://syscalls.w3challs.com/?arch=x86_64 <br>
-http://man7.org/linux/man-pages/man2/syscalls.2.html <br>
+<a href="https://syscalls.w3challs.com/?arch=x86_64">listing</a> <br>
+<a href="http://man7.org/linux/man-pages/man2/syscalls.2.html">manuals</a> <br>
 
  
