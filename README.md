@@ -5,3 +5,4 @@ http://www.france-ioi.org/ <br>
 https://www.w3schools.com/ <br>
 https://github.com/wtsxDev/reverse-engineering <br>
 https://goalkicker.com/ 
+https://wiki.osdev.org/Main_Page
