@@ -7,6 +7,7 @@ Ressources for assembly programming <br>
 <h2>tutorials</h2>
 <a href="https://asmtutor.com">asm tutor</a> <br>
 <a href="https://cs.lmu.edu/~ray/notes/nasmtutorial/">cs course</a> <br>
+<a href="https://pacman128.github.io/pcasm/"><online/offline course</a>
 
 <h2>syscalls</h2>
 
