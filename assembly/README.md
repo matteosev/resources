@@ -9,6 +9,8 @@ Ressources for assembly programming <br>
 <a href="https://cs.lmu.edu/~ray/notes/nasmtutorial/">cs course</a> <br>
 
 <h2>syscalls</h2>
+
+<h3>linux</h3>
 <a href="https://syscalls.w3challs.com/?arch=x86_64">listing</a> <br>
 <a href="http://man7.org/linux/man-pages/man2/syscalls.2.html">manuals</a> <br>
 
