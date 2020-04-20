@@ -11,6 +11,7 @@ Ressources for assembly programming <br>
 <a href="https://cs.lmu.edu/~ray/notes/nasmtutorial/">nasm cs course</a> <br>
 <a href="https://cs.lmu.edu/~ray/notes/x86assembly/">x86 asm cs course</a> <br>
 <a href="https://pacman128.github.io/pcasm/">online/offline course</a> <br>
+<a href="https://www.tutorialspoint.com/assembly_programming/assembly_file_management.htm">tutorials point (html version)</a> <br>
 <a href="https://www.swansontec.com/sregisters.html">registers</a>
 
 <h2>syscalls</h2>
