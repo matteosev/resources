@@ -14,6 +14,9 @@ Ressources for assembly programming <br>
 <a href="https://www.tutorialspoint.com/assembly_programming/assembly_file_management.htm">tutorials point (html version)</a> <br>
 <a href="https://www.swansontec.com/sregisters.html">registers</a>
 
+<h3>Youtube</h3>
+<a href="https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn">x86_64 linux asm</a>
+
 <h2>syscalls</h2>
 
 <h3>linux</h3>
