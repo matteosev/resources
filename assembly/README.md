@@ -15,7 +15,7 @@ Ressources for assembly programming <br>
 <a href="https://www.swansontec.com/sregisters.html">registers</a>
 
 <h3>Youtube</h3>
-<a href="https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe">intro to x86 asm</a> <br
+<a href="https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe">intro to x86 asm</a> <br>
 <a href="https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn">x86_64 linux asm</a>
 
 <h2>syscalls</h2>
