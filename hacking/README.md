@@ -5,6 +5,7 @@ disclaimer : these ressources are here to help you (whoever you are) to learn ha
 Some links|
 ----------|
 [Hacking related github topics](https://github.com/topics/hacking)
+[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 [Books](https://github.com/yeahhub/Hacking-Security-Ebooks)
 [Various ressources](https://github.com/The-Art-of-Hacking/h4cker)
 [movies](https://github.com/k4m4/movies-for-hackers)
