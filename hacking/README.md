@@ -6,6 +6,3 @@ Some links|
 ----------|
 https://github.com/yeahhub/Hacking-Security-Ebooks
 https://github.com/The-Art-of-Hacking/h4cker
-
-http://github.com - automatic!
-[GitHub](http://github.com)
