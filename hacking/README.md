@@ -4,5 +4,6 @@ disclaimer : these ressources are here to help you (whoever you are) to learn ha
 
 Some links|
 ----------|
-https://github.com/yeahhub/Hacking-Security-Ebooks
+[Hacking related github topics](https://github.com/topics/hacking)
+[Books](https://github.com/yeahhub/Hacking-Security-Ebooks)
 https://github.com/The-Art-of-Hacking/h4cker
