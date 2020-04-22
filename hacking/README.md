@@ -8,6 +8,7 @@ Some links|
 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
 [Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
-[Reverse Engineering](https://github.com/wtsxDev/reverse-engineering )
+[Reverse Engineering](https://github.com/wtsxDev/reverse-engineering)
+[RE course](https://beginners.re/)
 [Books](https://github.com/yeahhub/Hacking-Security-Ebooks)
 [Movies](https://github.com/k4m4/movies-for-hackers)
