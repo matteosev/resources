@@ -10,3 +10,4 @@ Some links|
 [movies](https://github.com/k4m4/movies-for-hackers)
 [hacker roadmap](https://github.com/sundowndev/hacker-roadmap)
 [Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
+[Talks](https://github.com/rmusser01/Infosec_Reference)
