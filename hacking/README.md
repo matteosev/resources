@@ -13,3 +13,5 @@ Some links|
 [Books](https://github.com/yeahhub/Hacking-Security-Ebooks)
 [Movies](https://github.com/k4m4/movies-for-hackers)
 [Google sheet](https://docs.google.com/spreadsheets/d/12bT8APhWsL-P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/edit#gid=937533738)
+[various](https://github.com/kernemporium/kernemporium.github.io/tree/master/ressources/pdf)
+[various](https://mega.nz/folder/WLY1iApS#fqafqQejFJEqUELa2bhFLQ)
