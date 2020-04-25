@@ -19,3 +19,9 @@ Some links|
 [various](https://github.com/kernemporium/kernemporium.github.io/tree/master/ressources/pdf)
 [various](https://mega.nz/folder/WLY1iApS#fqafqQejFJEqUELa2bhFLQ)
 [various](https://github.com/ruuand/ruuand.github.io)
+
+Train|
+-----|
+[Root Me](https://www.root-me.org/?lang=en)
+[BrainShell](https://www.brainshell.fr/)
+[Hack The Box](https://www.hackthebox.eu/)
