@@ -11,6 +11,7 @@ Some links|
 [Reverse Engineering](https://github.com/wtsxDev/reverse-engineering)
 [RE course](https://beginners.re/)
 [Books](https://github.com/yeahhub/Hacking-Security-Ebooks)
+[Books2](https://gist.github.com/nonohry/40ed808c1bbf246dee549a55e8c0de8e)
 [Movies](https://github.com/k4m4/movies-for-hackers)
 [Google sheet](https://docs.google.com/spreadsheets/d/12bT8APhWsL-P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/edit#gid=937533738)
 [Basics](https://bases-hacking.org/)
