@@ -3,7 +3,7 @@ ressources for C programming
 
 DOC
 ----|
-[tutorials point](https://www.tutorialspoint.com/cprogramming/index.html)
+[tutorials point](https://www.tutorialspoint.com/cprogramming/index.htm)
 [kernel newbies](https://kernelnewbies.org/)
 
 GTK
