@@ -8,3 +8,4 @@ GTK
 ------|
 [Main site](https://www.gtk.org/)
 [Gnome doc](https://developer.gnome.org/gtk3/stable/)
+[Glade](https://glade.gnome.org/)
