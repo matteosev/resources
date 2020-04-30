@@ -4,7 +4,7 @@ ressources for C programming
 <a href="https://www.tutorialspoint.com/cprogramming/index.htm">tutorials point</a> <br>
 [kernel newbies](https://kernelnewbies.org/)
 
-GUI
+GTK
 ------|
-[SDL](https://www.libsdl.org/)
-[GTK](https://www.gtk.org/)
+[Main site](https://www.gtk.org/)
+[Gnome doc](https://developer.gnome.org/gtk3/stable/)
