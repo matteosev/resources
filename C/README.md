@@ -4,6 +4,9 @@ ressources for C programming
 DOC
 ----|
 [tutorials point](https://www.tutorialspoint.com/cprogramming/index.htm)
+
+Kernel Programming
+---|
 [kernel newbies](https://kernelnewbies.org/)
 
 GTK
