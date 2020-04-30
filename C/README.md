@@ -5,5 +5,6 @@ ressources for C programming
 [kernel newbies](https://kernelnewbies.org/)
 
 ##GUI
+------
 [SDL](https://www.libsdl.org/)
 [FTK](https://www.gtk.org/)
