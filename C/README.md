@@ -1,7 +1,9 @@
 # C
 ressources for C programming
 
-<a href="https://www.tutorialspoint.com/cprogramming/index.htm">tutorials point</a> <br>
+DOC
+----|
+[tutorials point](https://www.tutorialspoint.com/cprogramming/index.html)
 [kernel newbies](https://kernelnewbies.org/)
 
 GTK
