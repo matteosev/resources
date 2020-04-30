@@ -7,4 +7,4 @@ ressources for C programming
 GUI
 ------|
 [SDL](https://www.libsdl.org/)
-[FTK](https://www.gtk.org/)
+[GTK](https://www.gtk.org/)
