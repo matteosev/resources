@@ -26,3 +26,5 @@ Train|
 [Root Me](https://www.root-me.org/?lang=en)
 [BrainShell](https://www.brainshell.fr/)
 [Hack The Box](https://www.hackthebox.eu/)
+[0x00sec](https://0x00sec.org/)
+[OverTheWire](https://overthewire.org/wargames/)
