@@ -1,7 +1,7 @@
 # C
 ressources for C programming
 
-DOC
+General doc
 ----|
 [tutorials point](https://www.tutorialspoint.com/cprogramming/index.htm)
 [Cprogramming.com](https://www.cprogramming.com/)
