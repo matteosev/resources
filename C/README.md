@@ -11,7 +11,6 @@ Kernel Programming
 [kernel newbies](https://kernelnewbies.org/)
 
 ## GUI (Graphical User Interface)
--
 GTK
 ------|
 [Main site](https://www.gtk.org/)
@@ -19,5 +18,4 @@ GTK
 [Glade](https://glade.gnome.org/)
 
 ## TUI (Text User Interface)
--
 ncurses
