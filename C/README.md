@@ -10,7 +10,7 @@ Kernel Programming
 ---|
 [kernel newbies](https://kernelnewbies.org/)
 
-GUI (Graphical User Interface)
+## GUI (Graphical User Interface)
 -
 GTK
 ------|
@@ -18,6 +18,6 @@ GTK
 [Gnome doc](https://developer.gnome.org/gtk3/stable/)
 [Glade](https://glade.gnome.org/)
 
-TUI (Text User Interface)
+## TUI (Text User Interface)
 -
 ncurses
