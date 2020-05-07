@@ -1,7 +1,9 @@
 # ressources
 All the ressources i use
 
-http://www.france-ioi.org/ <br>
-https://www.w3schools.com/ <br>
-https://goalkicker.com/ <br>
-https://wiki.osdev.org/Main_Page
+-|
+[Algorithm training](http://www.france-ioi.org/)
+[w3schools](https://www.w3schools.com/)
+[Notes](https://goalkicker.com/)
+[OS dev](https://wiki.osdev.org/Main_Page)
+[Free ebooks](https://devfreebooks.github.io/)
