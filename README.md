@@ -5,4 +5,5 @@ All the ressources i use|
 [w3schools](https://www.w3schools.com/)
 [Notes](https://goalkicker.com/)
 [OS dev](https://wiki.osdev.org/Main_Page)
-[Free ebooks](https://devfreebooks.github.io/)
+[Dev free books](https://devfreebooks.github.io/)
+[Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master)
