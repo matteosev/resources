@@ -9,7 +9,7 @@ documentation
 
 tutorials
 -|
-(x86 open book)[https://en.wikibooks.org/wiki/X86_Assembly]
+[x86 open book](https://en.wikibooks.org/wiki/X86_Assembly)
 <a href="https://asmtutor.com">asm tutor</a> <br>
 <a href="https://cs.lmu.edu/~ray/notes/nasmtutorial/">nasm cs course</a> <br>
 <a href="https://cs.lmu.edu/~ray/notes/x86assembly/">x86 asm cs course</a> <br>
