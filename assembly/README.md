@@ -1,12 +1,15 @@
 # assembly
 Ressources for assembly programming <br>
 
-<h2>documentation</h2>
+## documentation
+-|
 <a href="https://www.nasm.us/doc/nasmdoc0.html">nasm</a> <br>
 <a href="https://stackoverflow.com/tags/x86/info">x86 stackoverflow</a> <br>
 <a href="http://asm.sourceforge.net/">Linux assembly</a>
 
 <h2>tutorials</h2>
+-|
+(x86 open book)[https://en.wikibooks.org/wiki/X86_Assembly]
 <a href="https://asmtutor.com">asm tutor</a> <br>
 <a href="https://cs.lmu.edu/~ray/notes/nasmtutorial/">nasm cs course</a> <br>
 <a href="https://cs.lmu.edu/~ray/notes/x86assembly/">x86 asm cs course</a> <br>
