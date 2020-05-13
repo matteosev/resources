@@ -9,3 +9,4 @@ ressources
 [YTB lectures](https://www.youtube.com/playlist?list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6)
 [OS tutorial](https://github.com/cfenollosa/os-tutorial)
 [Blog](http://createyourownos.blogspot.com/)
+[Open source book](https://github.com/tuhdo/os01)
