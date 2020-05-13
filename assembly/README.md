@@ -7,7 +7,7 @@ documentation
 <a href="https://stackoverflow.com/tags/x86/info">x86 stackoverflow</a> <br>
 <a href="http://asm.sourceforge.net/">Linux assembly</a>
 
-<h2>tutorials</h2>
+tutorials
 -|
 (x86 open book)[https://en.wikibooks.org/wiki/X86_Assembly]
 <a href="https://asmtutor.com">asm tutor</a> <br>
