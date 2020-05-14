@@ -6,6 +6,7 @@ ressources
 [Linux From Scratch](http://www.linuxfromscratch.org/)
 [kernel newbies](https://kernelnewbies.org/)
 [OS dev wiki](https://wiki.osdev.org/Main_Page)
+[Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 [Tutorials point](http://www.tutorialspoint.com/operating_system/)
 [YTB lectures](https://www.youtube.com/playlist?list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6)
 [OS tutorial](https://github.com/cfenollosa/os-tutorial)
