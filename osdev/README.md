@@ -4,6 +4,7 @@ ressources to learn how an OS (operating system) works, and maybe build one
 ressources
 -|
 [Linux From Scratch](http://www.linuxfromscratch.org/)
+[kernel newbies](https://kernelnewbies.org/)
 [OS dev wiki](https://wiki.osdev.org/Main_Page)
 [Tutorials point](http://www.tutorialspoint.com/operating_system/)
 [YTB lectures](https://www.youtube.com/playlist?list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6)
