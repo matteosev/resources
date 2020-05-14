@@ -6,10 +6,6 @@ General doc
 [tutorials point](https://www.tutorialspoint.com/cprogramming/index.htm)
 [Cprogramming.com](https://www.cprogramming.com/)
 
-Kernel Programming
----|
-[kernel newbies](https://kernelnewbies.org/)
-
 ## GUI (Graphical User Interface)
 GTK
 ------|
