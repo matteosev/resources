@@ -10,3 +10,4 @@ All the ressources i use
 [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 [Learn anything](https://github.com/learn-anything/books) 
 [CS50 ytb Channel](https://www.youtube.com/user/cs50tv)
+[William Stallings'books](http://williamstallings.com/)
