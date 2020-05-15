@@ -11,3 +11,4 @@ All the ressources i use
 [Learn anything](https://github.com/learn-anything/books) 
 [CS50 ytb Channel](https://www.youtube.com/user/cs50tv)
 [William Stallings'books](http://williamstallings.com/)
+[The secret book of knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
