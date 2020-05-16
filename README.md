@@ -8,7 +8,7 @@ All the ressources i use
 [Teach yourself cs](https://teachyourselfcs.com/)
 [Notes](https://goalkicker.com/)
 [Dev free books](https://devfreebooks.github.io/)
-[Learn anything](https://github.com/learn-anything/books) 
+[Learn anything](https://github.com/learn-anything/curated-lists) 
 [CS50 ytb Channel](https://www.youtube.com/user/cs50tv)
 [William Stallings'books](http://williamstallings.com/)
 [The secret book of knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
