@@ -1,6 +1,7 @@
 # ressources
 All the ressources i use
 -|
+[Awesome lists](https://github.com/sindresorhus/awesome)
 [Algorithm training](http://www.france-ioi.org/)
 [w3schools](https://www.w3schools.com/)
 [MIT open courses](https://ocw.mit.edu/courses/)
