@@ -5,6 +5,7 @@ ressources
 -|
 [Linux From Scratch](http://www.linuxfromscratch.org/)
 [kernel newbies](https://kernelnewbies.org/)
+[Kernel.org](https://www.kernel.org/)
 [OS dev wiki](https://wiki.osdev.org/Main_Page)
 [Low Level Programming University](https://github.com/gurugio/lowlevelprogramming-university)
 [The Little Book About OS Development](https://littleosbook.github.io/)
